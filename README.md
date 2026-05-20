@@ -19,5 +19,5 @@ To run this project locally, follow these steps:
    ```bash
    git clone [https://github.com/JosueVasquez2305/coffee-menu-workshop-fcc.git](https://github.com/JosueVasquez2305/coffee-menu-workshop-fcc.git)
 
-   ```markdown
+
 [Click here to deploy or run project](https://josuevasquez2305.github.io/coffee-menu-workshop-fcc/)
